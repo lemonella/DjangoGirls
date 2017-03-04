@@ -1,0 +1,1 @@
+(dg_venv) D:\DjangoGirls>python manage.py runserver
